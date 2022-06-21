@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/drawable/txt_field_style.xml" value="0.1545" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book2.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book3.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book4.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book5.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book6.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book7.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_book8.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_dash_board.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_login.xml" value="0.15925925925925927" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_pdf.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/MyBooks/app/src/main/res/layout/sample_layout.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
